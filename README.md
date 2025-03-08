@@ -1,26 +1,26 @@
-# 🎁 Sorteador de Amigo Secreto
+# 🎉 Sorteador de Amigo Secreto
 
 ## 📌 Sobre o Projeto
 
-Este é um sistema simples para realizar o sorteio de **Amigo Secreto**, desenvolvido utilizando **HTML, CSS e JavaScript**. A aplicação possibilita adicionar participantes à lista e sortear aleatoriamente. Esse projeto foi criado como parte do curso **"Praticando Lógica de Programação: Challenge Amigo Secreto"**, da Alura.
+Este é um projeto interativo para sorteios de amigo secreto, desenvolvido com **HTML, CSS e JavaScript**. Ele permite que os usuários adicionem nomes à lista e realizem o sorteio de forma aleatória e justa.
 
 ## 🚀 Tecnologias Utilizadas
+- **HTML5** → Estruturação da página
+- **CSS3** → Estilos modernos e responsivos
+- **JavaScript** → Manipulação do DOM e lógica do sorteio
 
-- **HTML5** → Responsável pela estruturação da página.  
-- **CSS3** → Aplicação de estilos visuais e organização da interface.  
-- **JavaScript** → Implementação da lógica para o sorteio e manipulação do DOM.
+## 🎯 Funcionalidades
+✔️ Adicionar e remover participantes  
+✔️ Exibição dinâmica da lista  
+✔️ Validação para evitar nomes duplicados  
+✔️ Sorteio justo e aleatório  
+✔️ Interface amigável e intuitiva  
 
-## 🎮 Como Funciona?
+## 🎉 Como Usar?
+1. Digite o nome do participante e clique em "Adicionar".  
+2. Repita o processo até incluir todos os participantes.  
+3. Clique em "Sortear" e veja quem foi escolhido.  
 
-1. Insira os nomes dos participantes no campo indicado.  
-2. Clique no botão **"Adicionar"** para incluir cada nome na lista.  
-3. Quando todos os nomes forem inseridos, clique em **"Sortear"** para realizar o sorteio.  
-4. O sistema mostrará o nome da pessoa sorteada na tela.  
-
-## ✨ Exemplo de Uso
-
-```js
-adicionarParticipante("Ana");
-adicionarParticipante("Carlos");
-sortear(); 
-// Exemplo de saída: 🎉 "Carlos foi o sorteado!"
+## 📎 Recursos Adicionais
+- Design responsivo e moderno.  
+- Código otimizado para melhor desempenho.  
